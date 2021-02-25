@@ -1,8 +1,8 @@
 # Подготовка данных к EDA
 
- - `domofond.csv` - неочищенные данные после парсинга. Содержат html-теги и другой различный мусор.
- - `flats.csv` - отчищенные данные, подготовленные к EDA.
- - `data_cleaning.ipynb` - ноутбук для подготовки данных к EDA. На вход подаем domofond.csv, на выходе получаем flats.csv.
- - `df.csv` - данные после, полученные после EDA.
+[domofond.csv](https://drive.google.com/file/d/10Fp7a1zZ9TTKZINFbPd5I7ROqevawqlO/view?usp=sharing) - неочищенные данные после парсинга. Содержат html-теги и другой различный мусор.
+
+Данные разибты на тренировочные и тестовые:
+ - [train.csv](https://drive.google.com/file/d/1230mPT7xhc8TlYMBhkf0M9lcLOFKTQkO/view?usp=sharing) - тренировочные данные
+ - [test.csv](https://drive.google.com/file/d/1Gjnrc3gKYUh0w7erYyLo-gBaaia2qq5A/view?usp=sharing) - тестовые данные.
  
- Удалил html-теги. Удалил лишнюю информацию из каждого признака. Привел все признаки к нужным типам. На основе имеющихся признаков и информации из внешних источников добавил новые признаки.
