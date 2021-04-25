@@ -22,7 +22,7 @@
 - [EDA](https://github.com/alxkzncoff/house_price_prediction/tree/master/eda)
 - [Model](https://github.com/alxkzncoff/house_price_prediction/tree/master/model)
 
-## Reports
+## EDA Reports
 
 ### Pandas Profiling
 
