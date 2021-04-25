@@ -22,6 +22,3 @@
 - [EDA](https://github.com/alxkzncoff/house_price_prediction/tree/master/eda)
 - [Model](https://github.com/alxkzncoff/house_price_prediction/tree/master/model)
 
-## Итог
-
-В результате выполнения проекта удалось построить модель, которая предсказывает цены на недвижимость в г. Санкт-Петербург с погрешностью **~7%**.
