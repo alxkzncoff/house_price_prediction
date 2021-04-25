@@ -17,7 +17,7 @@
 
 ## Структура репозитория
 
-- [Domofond Spider](https://github.com/alxkzncoff/house_price_prediction/tree/master/domofond)
+- [Spider](https://github.com/alxkzncoff/house_price_prediction/tree/master/domofond)
 - [Данные](https://github.com/alxkzncoff/house_price_prediction/tree/master/data)
 - [EDA](https://github.com/alxkzncoff/house_price_prediction/tree/master/eda)
 - [Model](https://github.com/alxkzncoff/house_price_prediction/tree/master/model)
