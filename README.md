@@ -20,7 +20,7 @@
 - [Spider](https://github.com/alxkzncoff/house_price_prediction/tree/master/domofond)
 - [Data](https://github.com/alxkzncoff/house_price_prediction/tree/master/data)
 - [EDA](https://github.com/alxkzncoff/house_price_prediction/tree/master/eda)
-- [ML](https://github.com/alxkzncoff/house_price_prediction/tree/master/model)
+- [ML](https://github.com/alxkzncoff/house_price_prediction/tree/master/ml)
 
 ## EDA Reports
 
