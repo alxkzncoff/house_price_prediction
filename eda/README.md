@@ -64,6 +64,28 @@
 public_date, update_date, district_rating, district, underground, metro_station, eco_rating, clear_rating, gkh_rating,
 neighbor_rating, kids_rating, sport_rest_rating, shop_rating, traffic_rating, secure_rating, life_price_rating.
 
+## EDA Reports
+
+### Pandas Profiling
+
+- [Сырые данные.](https://alxkzncoff.github.io/house_price_prediction/EDA_FLATS_PANDAS_PROFILING_REPORT.html)
+- [Объявления площадью до 400 м2.](https://alxkzncoff.github.io/house_price_prediction/EDA_FLATS_400M2_PANDAS_PROFILING_REPORT.html)
+- [Объявления площадью до 130 м2.](https://alxkzncoff.github.io/house_price_prediction/EDA_FLATS_130M2_PANDAS_PROFILING_REPORT.html)
+- [Откорректированные категориальные признаки до 400 м2.](https://alxkzncoff.github.io/house_price_prediction/EDA_CAT_COR_FLATS_400M2_PANDAS_PROFILING_REPORT.html)
+- [Откорректированные категориальные признаки до 130 м2.](https://alxkzncoff.github.io/house_price_prediction/EDA_CAT_COR_FLATS_130M2_PANDAS_PROFILING_REPORT.html)
+- [Новые признаки до 400 м2.](https://alxkzncoff.github.io/house_price_prediction/NEW_FEATURES_400M2_PANDAS_PROFILING_REPORT.html)
+- [Новые признаки до 130 м2.](https://alxkzncoff.github.io/house_price_prediction/NEW_FEATURES_130M2_PANDAS_PROFILING_REPORT.html)
+
+### Sweetviz
+
+- [Сырые данные.](https://alxkzncoff.github.io/house_price_prediction/EDA_FLATS_SWEETVIZ_REPORT.html)
+- [Объявления площадью до 400 м2.](https://alxkzncoff.github.io/house_price_prediction/EDA_FLATS_400M2_SWEETVIZ_REPORT.html)
+- [Объявления площадью до 130 м2.](https://alxkzncoff.github.io/house_price_prediction/EDA_FLATS_130M2_SWEETVIZ_REPORT.html)
+- [Откорректированные категориальные признаки до 400 м2.](https://alxkzncoff.github.io/house_price_prediction/EDA_CAT_COR_FLATS_400M2_SWEETVIZ_REPORT.html)
+- [Откорректированные категориальные признаки до 130 м2.](https://alxkzncoff.github.io/house_price_prediction/EDA_CAT_COR_FLATS_130M2_SWEETVIZ_REPORT.html)
+- [Новые признаки до 400 м2.](https://alxkzncoff.github.io/house_price_prediction/NEW_FEATURES_400M2_SWEETVIZ_REPORT.html)
+- [Новые признаки до 130 м2.](https://alxkzncoff.github.io/house_price_prediction/NEW_FEATURES_130M2_SWEETVIZ_REPORT.html)
+
 Здесь была проведена большая часть работы. На вход подаем [flats.csv](https://github.com/alxkzncoff/house_price_prediction/blob/master/data/flats.csv), на выходе получаем [df.csv.](https://github.com/alxkzncoff/house_price_prediction/blob/master/data/df.csv)
 
 В процессе был проанализирован каждый признак. 
